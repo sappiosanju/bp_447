@@ -1,7 +1,0 @@
-users:
-  - name: greg
-    group: developer
-  - name: bob
-    group: manager
-  - name: sally
-    group: developer
